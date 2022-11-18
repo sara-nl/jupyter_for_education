@@ -7,5 +7,3 @@ This repository contains examples for the Jupyter for Education service. If you 
 3. Launch (Spawn) a Jupyter Notebook Server
 4. Open a terminal (via `new` => `Terminal`)
 5. Clone this repository (`git clone https://github.com/sara-nl/jupyter_for_education.git`)
-6. In your Jupyter Notebook Server, browse to the example you want to run, and open it.
-7. Run the example. Note: some examples might install additional python packages in your course environment.
